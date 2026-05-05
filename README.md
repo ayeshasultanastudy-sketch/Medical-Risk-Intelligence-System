@@ -12,16 +12,6 @@ https://medical-risk-intelligence-system-qre3gwyvpgdcn8sc3vepfk.streamlit.app/
 
 
 
-📸 Screenshots
-
-🏠 Dashboard Home
-
-🧬 Tumor Prediction
-
-❤️ Health Risk Analysis
-
-
-
 🚀 Project Overview
 
 The Medical Risk Intelligence System predicts multiple health conditions using trained ML models and rule-based logic. It provides an intuitive interface for analyzing patient data and generating real-time risk insights.
